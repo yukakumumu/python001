@@ -5,3 +5,7 @@
 
 from math import floor
 print(floor(10.3))
+
+from pac003 import mod004
+AAA = mod004.ClsAAA(100)
+print(AAA.x)
